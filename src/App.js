@@ -5,7 +5,7 @@ import React from 'react';
 import "./style.css"
 import AddContact from './AddContact';
 import EditContact from './EditContact';
-/*Logic to   read the data from firestore db
+/*Logic to     read the data from firestore db
       call one method called collection
       onSnapshot will take the photo 
       snapshot is a variable to store the photo as a doc in an array using map function(i)
